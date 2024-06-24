@@ -1,0 +1,2 @@
+# statusfy
+Automatyczne raportowanie
