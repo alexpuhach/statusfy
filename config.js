@@ -13,5 +13,6 @@ module.exports = {
   ],
   "content": {
     "frontMatterFormat": "yaml"
-  }
+  },
+  "repository": "https://github.com/alexpuhach/statusfy.git"
 }
